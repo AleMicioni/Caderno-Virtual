@@ -1,2 +1,2 @@
 # Projeto do desafio DIO
-Desafio do Bootcamp da Inter
+Repositório criado para o desafio do Bootcamp da Inter oferecido pela DIO
