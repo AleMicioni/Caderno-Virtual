@@ -1,5 +1,9 @@
 # Projeto do desafio DIO
-Repositório criado para o desafio do Bootcamp da Inter oferecido pela DIO
+
+
+Projeto de um Caderno Virtual para armazenar anotações e exercícios realizados durante o Bootcamp Front-end da Inter pela plataforma DIO. 
+
+
 
 _Cronograma de Estudos_
 
