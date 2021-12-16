@@ -1,0 +1,73 @@
+body {
+    font-family: "Lucida Handwriting";
+}
+
+.navbar {
+    background-color: #FFBD59 ;
+}
+
+.margin {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.historia {
+    background-color: #7D2408;
+}
+
+.tudocomecou {
+   color: #FFBD59;
+   font-size: xx-large;
+   font-weight: bold;
+   font-stretch: expanded;
+   font-family: "Lucida Handwriting", cursive ;
+}
+
+.text_historia {
+    color: #FFBD59;
+   font-stretch: expanded;
+   font-family: "Lucida Handwriting", cursive ;
+   padding-top: 20px;
+}
+
+.loja {
+    background-color: #FFBD59 ;
+}
+
+.texto_loja {
+    color: #7D2408;
+   font-size: xx-large;
+   font-weight: bold;
+   font-stretch: expanded;
+   font-family: "Lucida Handwriting", cursive ;
+}
+
+.texto_produtos {
+    color: #7D2408;
+   font-stretch: expanded;
+   font-family: "Lucida Handwriting";
+}
+
+.btn {
+    color: #FFBD59 ;
+    background-color: #7D2408;
+    border-color: #7D2408;
+}
+
+.ondencontrar {
+background-color: #7D2408;
+}
+
+.texto_ondencontrar {
+    color: #FFBD59;
+   font-size: xx-large;
+   font-weight: bold;
+   font-stretch: expanded;
+   font-family: "Lucida Handwriting", cursive ;
+
+}
+
+.final {
+    text-align: center;
+    background-color: #FFBD59;
+}
