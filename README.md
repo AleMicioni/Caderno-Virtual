@@ -9,8 +9,12 @@ _Cronograma de Estudos_
 
 - [x] Introdução a criação de websites com HTML e CCS 3
 
-- [ ] Construindo páginas para internet com Bootstrap
+- [x] Construindo páginas para internet com Bootstrap
 
 - [ ] IDE Instalação e Configuração (Visual Studio Code
+
+- [ ] Introdução ao JavaScript
+
+- [ ] Sintaxe Básica em JavaScript
 
   
